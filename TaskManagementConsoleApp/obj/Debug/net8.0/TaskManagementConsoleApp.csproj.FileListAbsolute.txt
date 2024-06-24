@@ -1,0 +1,36 @@
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementConsoleApp\bin\Debug\net8.0\TaskManagementConsoleApp.exe
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementConsoleApp\bin\Debug\net8.0\TaskManagementConsoleApp.deps.json
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementConsoleApp\bin\Debug\net8.0\TaskManagementConsoleApp.runtimeconfig.json
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementConsoleApp\bin\Debug\net8.0\TaskManagementConsoleApp.dll
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementConsoleApp\bin\Debug\net8.0\TaskManagementConsoleApp.pdb
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementConsoleApp\bin\Debug\net8.0\TaskManagementLibrary.dll
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementConsoleApp\bin\Debug\net8.0\TaskManagementLibrary.pdb
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementConsoleApp\obj\Debug\net8.0\TaskManagementConsoleApp.csproj.AssemblyReference.cache
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementConsoleApp\obj\Debug\net8.0\TaskManagementConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementConsoleApp\obj\Debug\net8.0\TaskManagementConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementConsoleApp\obj\Debug\net8.0\TaskManagementConsoleApp.AssemblyInfo.cs
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementConsoleApp\obj\Debug\net8.0\TaskManagementConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementConsoleApp\obj\Debug\net8.0\TaskMana.77829F2C.Up2Date
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementConsoleApp\obj\Debug\net8.0\TaskManagementConsoleApp.dll
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementConsoleApp\obj\Debug\net8.0\refint\TaskManagementConsoleApp.dll
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementConsoleApp\obj\Debug\net8.0\TaskManagementConsoleApp.pdb
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementConsoleApp\obj\Debug\net8.0\TaskManagementConsoleApp.genruntimeconfig.cache
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementConsoleApp\obj\Debug\net8.0\ref\TaskManagementConsoleApp.dll
+C:\Users\jaosk\OneDrive\Documentos\Programacion V\Examen1-main\TaskManagementConsoleApp\obj\Debug\net8.0\TaskManagementConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaosk\OneDrive\Documentos\Programacion V\Examen1-main\TaskManagementConsoleApp\obj\Debug\net8.0\TaskManagementConsoleApp.AssemblyInfoInputs.cache
+C:\Users\jaosk\OneDrive\Documentos\Programacion V\Examen1-main\TaskManagementConsoleApp\obj\Debug\net8.0\TaskManagementConsoleApp.AssemblyInfo.cs
+C:\Users\jaosk\OneDrive\Documentos\Programacion V\Examen1-main\TaskManagementConsoleApp\obj\Debug\net8.0\TaskManagementConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jaosk\OneDrive\Documentos\Programacion V\Examen1-main\TaskManagementConsoleApp\obj\Debug\net8.0\TaskManagementConsoleApp.dll
+C:\Users\jaosk\OneDrive\Documentos\Programacion V\Examen1-main\TaskManagementConsoleApp\obj\Debug\net8.0\refint\TaskManagementConsoleApp.dll
+C:\Users\jaosk\OneDrive\Documentos\Programacion V\Examen1-main\TaskManagementConsoleApp\obj\Debug\net8.0\TaskManagementConsoleApp.pdb
+C:\Users\jaosk\OneDrive\Documentos\Programacion V\Examen1-main\TaskManagementConsoleApp\obj\Debug\net8.0\TaskManagementConsoleApp.csproj.AssemblyReference.cache
+C:\Users\jaosk\OneDrive\Documentos\Programacion V\Examen1-main\TaskManagementConsoleApp\bin\Debug\net8.0\TaskManagementConsoleApp.exe
+C:\Users\jaosk\OneDrive\Documentos\Programacion V\Examen1-main\TaskManagementConsoleApp\bin\Debug\net8.0\TaskManagementConsoleApp.deps.json
+C:\Users\jaosk\OneDrive\Documentos\Programacion V\Examen1-main\TaskManagementConsoleApp\bin\Debug\net8.0\TaskManagementConsoleApp.runtimeconfig.json
+C:\Users\jaosk\OneDrive\Documentos\Programacion V\Examen1-main\TaskManagementConsoleApp\bin\Debug\net8.0\TaskManagementConsoleApp.dll
+C:\Users\jaosk\OneDrive\Documentos\Programacion V\Examen1-main\TaskManagementConsoleApp\bin\Debug\net8.0\TaskManagementConsoleApp.pdb
+C:\Users\jaosk\OneDrive\Documentos\Programacion V\Examen1-main\TaskManagementConsoleApp\bin\Debug\net8.0\TaskManagementLibrary.dll
+C:\Users\jaosk\OneDrive\Documentos\Programacion V\Examen1-main\TaskManagementConsoleApp\bin\Debug\net8.0\TaskManagementLibrary.pdb
+C:\Users\jaosk\OneDrive\Documentos\Programacion V\Examen1-main\TaskManagementConsoleApp\obj\Debug\net8.0\TaskMana.77829F2C.Up2Date
+C:\Users\jaosk\OneDrive\Documentos\Programacion V\Examen1-main\TaskManagementConsoleApp\obj\Debug\net8.0\TaskManagementConsoleApp.genruntimeconfig.cache
+C:\Users\jaosk\OneDrive\Documentos\Programacion V\Examen1-main\TaskManagementConsoleApp\obj\Debug\net8.0\ref\TaskManagementConsoleApp.dll
